@@ -1,1 +1,1 @@
-App.accessRule('file://*');
+App.accessRule('*');
